@@ -69768,7 +69768,7 @@ $S:158}
 A.fq.prototype={}
 A.Hz.prototype={
 J(a,b){var s=null,r=A.b([new A.vu(new A.tI(new A.a_s(),s,s,s,A.aDi(),A.aCe(),t.D9),s,s,s,s,t.FH)],t.Ds)
-return A.axu(new A.xo(new A.hG(new A.a_t(),s),"Flutter Demo",A.ahS(s,B.tS),!1,s),r)}}
+return A.axu(new A.xo(new A.hG(new A.a_t(),s),"Gradient Maker",A.ahS(s,B.tS),!1,s),r)}}
 A.a_s.prototype={
 $1(a){return new A.jW(B.h4,B.v,new A.bC(-1,-1),new A.bC(1,1),new A.j(0,0),new A.j(0,0),new A.bC(0,0),new A.bC(1,1),new A.j(0,0),new A.j(0,0),0.5,new A.bC(0,0),new A.j(0,0),6.283185307179586,A.b([new A.dK(0,"fff8b249",0),new A.dK(1,"fffee795",0)],t.Cx),new A.fq(new A.bC(-1,-1),new A.bC(1,1)),$.b7())},
 $S:438}
